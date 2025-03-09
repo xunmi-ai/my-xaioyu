@@ -1,0 +1,27 @@
+```plaintext
+# 忽略 macOS 系统文件
+.DS_Store
+
+# 忽略 Node.js 的 node_modules 文件夹
+node_modules/
+
+# 忽略 IDE 配置文件
+.vscode/
+.idea/
+
+# 忽略缓存文件
+*.log
+*.tmp
+
+# 忽略构建工具生成的文件
+dist/
+build/
+
+# 忽略环境变量文件
+.env
+.env.local
+
+# 忽略其他不必要的文件
+*.bak
+*.swp
+```
